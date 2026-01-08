@@ -1,0 +1,10 @@
+{
+  "patterns": [
+    {"pattern": "*", "preset": "Default"}
+  ],
+  "platforms": {
+    "pc": {
+      "enableStreaming": false
+    }
+  }
+}

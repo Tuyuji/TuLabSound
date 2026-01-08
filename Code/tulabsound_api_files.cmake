@@ -1,0 +1,10 @@
+set(FILES
+    Include/TuLabSound/TuLabSoundTypeIds.h
+    Include/TuLabSound/TuLabSoundBus.h
+    Include/TuLabSound/AudioBusManagerInterface.h
+    Include/TuLabSound/AudioPlayerBus.h
+    Include/TuLabSound/SoundAsset.h
+    Include/TuLabSound/PlayerAudioEffect.h
+    Include/TuLabSound/Utils.h
+    Include/TuLabSound/Effects/VisualizerBus.h
+)

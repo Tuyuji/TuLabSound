@@ -1,0 +1,11 @@
+{
+    "defaultSettings": {
+        "name": "Default",
+        "description": "Default settings.",
+        "format": "Vorbis",
+        "loadMethod": "DecodeOnLoad",
+        "quality": 1.0
+    },
+    "platformOverrides": {
+    }
+}

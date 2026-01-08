@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder TuLabSound/Assets": {
+                    "watch": "@GEMROOT:TuLabSound@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder TuLabSound/Registry": {
+                    "watch": "@GEMROOT:TuLabSound@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
